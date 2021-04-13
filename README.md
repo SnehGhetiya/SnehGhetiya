@@ -103,10 +103,9 @@
 
 <br/>  
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehGhetiya)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehGhetiya"/> <img src="https://github.com/SnehGhetiya/github-readme-stats"/>
+</div>
   
 
 <br/>  
