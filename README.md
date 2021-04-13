@@ -103,9 +103,10 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SnehGhetiya&&style=flat-square" align="center" />
-</div>  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehGhetiya)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
 <br/>  
@@ -116,7 +117,9 @@
                     src="https://img.shields.io/badge/Visit-Again-green?style=flat-square" 
                     align="center"
                 />
-            </a></div>
+            </a>
+  <img src="https://komarev.com/ghpvc/?username=SnehGhetiya&&style=flat-square" align="center" />
+</div>
 <br />
 
 ----
