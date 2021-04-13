@@ -104,7 +104,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehGhetiya&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehGhetiya&hide_border=true&theme=tokyonight"/>
 </div>
   
 
