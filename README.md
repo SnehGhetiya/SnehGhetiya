@@ -120,5 +120,7 @@
   <img src="https://komarev.com/ghpvc/?username=SnehGhetiya&&style=flat-square" align="center" />
 </div>
 <br />
-
+<div align="center">
+  <a href="https://app.daily.dev/Sneh_71"><img src="https://api.daily.dev/devcards/34acb5e4abdb465dbba4574132f47b79.png?r=q9u" width="400" alt="Code Harmony's Dev Card"/></a>
+</div>
 ----
