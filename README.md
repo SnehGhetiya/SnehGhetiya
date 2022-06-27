@@ -121,6 +121,6 @@
 </div>
 <br />
 <div align="center">
-  <a href="https://app.daily.dev/Sneh_71"><img src="https://api.daily.dev/devcards/34acb5e4abdb465dbba4574132f47b79.png?r=q9u" width="400" alt="Code Harmony's Dev Card"/></a>
+  <a href="https://app.daily.dev/Sneh_17"><img src="https://api.daily.dev/devcards/b4033782e322494890a40acce4eef898.png?r=oy7" width="400" alt="Sneh Ghetiya's Dev Card"/></a>
 </div>
 ----
